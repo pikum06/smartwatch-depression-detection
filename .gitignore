@@ -1,0 +1,4 @@
+dep_dect/
+__pycache__/
+*.pyc
+.vscode/
