@@ -14,7 +14,7 @@
 ---
 
 ## Publication & Links
-* **Conference:** 2021 11th International Conference on Cloud Computing, Data Science & Engineering (Confluence)[cite: 3]
+* **Conference:** 2021 11th International Conference on Cloud Computing, Data Science & Engineering (Confluence)
 * **IEEE Xplore Paper:** [View Article on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9377199)
 
 ---
