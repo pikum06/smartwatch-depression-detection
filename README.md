@@ -32,6 +32,17 @@ Mental illness presents a global healthcare challenge, with depression affecting
 
 ---
 
+## Dataset & Source
+
+The empirical survey data used in this project is sourced from Kaggle:
+
+* **Dataset Title:** [Unemployment and Mental Illness Survey](https://www.kaggle.com/datasets/michaelacorley/unemployment-and-mental-illness-survey)
+* **Author:** Michaela Corley
+* **Scope:** 334 survey responses covering 31 attributes related to employment status, demographic profiles, and self-identified mental health indicators[cite: 3].
+* **Local Path:** [`data/cleaned_data.xlsx`](./data/cleaned_data.xlsx)
+
+---
+
 ## Architecture Overview
 
 The system ingests sensor and survey attributes, cleans noise, visualizes exploratory distributions, and trains voting ensembles to predict depression status.
