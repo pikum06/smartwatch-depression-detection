@@ -34,7 +34,7 @@ Mental illness presents a global healthcare challenge, with depression affecting
 
 ## Dataset & Source
 
-The empirical survey data used in this project is sourced from Kaggle:
+The survey data used in this project is sourced from Kaggle:
 
 * **Dataset Title:** [Unemployment and Mental Illness Survey](https://www.kaggle.com/datasets/michaelacorley/unemployment-and-mental-illness-survey)
 * **Author:** Michaela Corley
